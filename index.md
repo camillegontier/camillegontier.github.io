@@ -8,7 +8,7 @@ I am currently a Postdoctoral Associate at the University of Pittsburgh (US), wo
 
 In 2025, I will start a tenured faculty position (ISFP) at the <a href="https://www.inria.fr/en">INRIA</a> in Strasbourg (FR), working on closed-loop non-invasive neurostimulation.
 
-I obtained my PhD in the <a href="https://physiologie.unibe.ch/~pfister/group/">Theoretical Neuroscience Lab</a> of the University of Bern (CH): my main research topic was the development of statistical inference and Bayesian ACtive Learning methods, and their application to synaptic recordings.
+I obtained my PhD in the <a href="https://physiologie.unibe.ch/~pfister/group/">Theoretical Neuroscience Lab</a> of the University of Bern (CH): my main research topic was the development of statistical inference and Bayesian Active Learning methods, and their application to synaptic recordings.
 
 In my previous life, I was an engineer in the space industry: I am currently the Chief Scientist of <a href="https://lide.space/">LIDE Space</a> (a non-profit organizing parabolic flights for microgravity research), and successfully failed twice to become an astronaut. I remain fascinated by anything that flies and makes a lot of noise (to this, someone once answered "so you study, like, seagulls?" This question still haunts me).
 
