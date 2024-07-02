@@ -5,6 +5,7 @@ layout: homepage
 ## About Me
 
 I am a Ph.D. student at ...
+<a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a>
 
 ## Research Interests
 
