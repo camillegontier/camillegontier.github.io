@@ -4,16 +4,9 @@
 
 <ul style="margin:0 0 5px;">
   <li>Physiologie : Synapsen und Regelkreise</li>
-  <li>Physiologie-Praktikum : Okulomotorik und Vestibularapparat</li>. <a href="https://camillegontier.github.io/assets/files/curriculum_vitae.pdf
-">Code</a>
+  <li>Physiologie-Praktikum : Okulomotorik und Vestibularapparat</li> 
   <li>Introduction to biological and computational learning</li>
+  <a href="https://camillegontier.github.io/assets/files/curriculum_vitae.pdf">Syllabus</a>, <a href="https://camillegontier.github.io/assets/files/ex_session_1.pdf">Ex 1</a> (<a href="https://camillegontier.github.io/assets/files/ex_session_1_correction.pdf">with corrections</a>), <a href="https://camillegontier.github.io/assets/files/ex_session_2.pdf">Ex 2</a> (<a href="https://camillegontier.github.io/assets/files/ex_session_2_correction.pdf">with corrections</a>).
 
-
-
-  
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-</ul>
 
 
