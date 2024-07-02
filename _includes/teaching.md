@@ -4,9 +4,9 @@
 
 <ul style="margin:0 0 5px;">
   <li>Physiologie : Synapsen und Regelkreise</li>
-  <li>Physiologie-Praktikum : Okulomotorik und Vestibularapparat</li>
+  <li>Physiologie-Praktikum : Okulomotorik und Vestibularapparat</li>. <a href="https://camillegontier.github.io/assets/files/curriculum_vitae.pdf
+">Code</a>
   <li>Introduction to biological and computational learning</li>
-
 
 
 
