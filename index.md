@@ -13,8 +13,10 @@ I sometimes write on Stack Exchange, especially about <a href="https://stats.sta
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Control and learning:** model and parameter inference, Bayesian Active Learning, non-linear filtering
+- **Biological applications:** synaptic transmission, Brain-Computer Interfaces (BCIs), neurostimulation
+- **Space engineering:** human factors, microgravity research, cell biology
+
 
 ## News
 
