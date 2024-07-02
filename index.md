@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a Ph.D. student at ...
-I sometimes write on Stack Exchange, especially about <a href="[https://www.springer.com/journal/11263](https://stats.stackexchange.com/users/271601/camille-gontier)">statistics</a> and <a href="[https://www.springer.com/journal/11263](https://academia.stackexchange.com/users/123985/camille-gontier)"><autocolor>academia</autocolor></a>.
+I sometimes write on Stack Exchange, especially about <a href="[https://www.springer.com/journal/11263](https://stats.stackexchange.com/users/271601/camille-gontier)">statistics</a> and <a href="[https://www.springer.com/journal/11263](https://academia.stackexchange.com/users/123985/camille-gontier)">academia</a>.
 
 ## Research Interests
 
