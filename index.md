@@ -21,9 +21,10 @@ My most up-to-date CV, code, and list of publications are available via the widg
 ## Research Interests
 
 I would define myself as a theoretical neuroscientist, with a keen interest for developing quantative solutions to biological problems. My main research interest is optimal closed-loop control, and its application to neuroscience:
-- I developed an efficient algorithm for closed-loop Bayesian Active Learning and applied it to synaptic inference during my PhD project;
-- My current postdoc project is about the detection and correction on-the-fly of errors during motor control tasks with BCIs;
-- Our INRIA team will work on efficient closed-loop neurostimulation and its application to cognitive disorders.
+- I developed an efficient algorithm for closed-loop Bayesian Active Learning and applied it to synaptic inference during my PhD project (<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011342">PLoS CB paper</a>);
+- My current postdoc project is about the detection and correction on-the-fly of errors during motor control tasks with BCIs (<a href="https://github.com/camillegontier/camillegontier.github.io/blob/main/assets/files/poster.pdf">COSYNE 2024 Poster</a>);
+- Our INRIA team will work on efficient closed-loop neurostimulation and its application to cognitive disorders (<a href="https://mlms.icube.unistra.fr/index.php?title=Presentation
+">INRIA team description</a>).
 
 On my free time, I also enjoy studying space sciences, and help with the organization of microgravity experiments.
 
