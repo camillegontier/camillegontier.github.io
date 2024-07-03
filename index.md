@@ -28,8 +28,4 @@ I would define myself as a theoretical neuroscientist, with a keen interest for 
 
 On my free time, I also enjoy studying space sciences, and help with the organization of microgravity experiments.
 
-- **Control and learning:** model and parameter inference, Bayesian Active Learning, non-linear filtering
-- **Biological applications:** synaptic transmission, Brain-Computer Interfaces (BCIs), neurostimulation
-- **Space engineering:** human factors, microgravity research, cell biology
-
 {% include_relative _includes/teaching.md %}
