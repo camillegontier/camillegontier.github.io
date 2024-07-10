@@ -26,6 +26,6 @@ I would define myself as a theoretical neuroscientist, with a keen interest for 
 - Our INRIA team will work on efficient closed-loop neurostimulation and its application to cognitive disorders (<a href="https://mlms.icube.unistra.fr/index.php?title=Presentation
 ">INRIA team description</a>).
 
-On my free time, I also enjoy studying space sciences, and help with the organization of microgravity experiments.
+On my free time, I also enjoy studying space sciences, and help with the organization of microgravity experiments (<a href="https://link.springer.com/article/10.1007/s12217-020-09836-6">MGST paper on parabolic flights with gliders</a>).
 
 {% include_relative _includes/teaching.md %}
