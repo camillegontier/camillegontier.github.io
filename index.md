@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am currently a Postdoctoral Associate at the University of Pittsburgh (US), working on human Brain-Computer Interfaces (BCIs) at the <a href="https://www.rnel.pitt.edu/">RNEL</a>, on a <a href="https://www.snf.ch/en/XIZpfY3iVS5KRRoD/funding/careers/postdoc-mobility">Postdoc.Mobility grant</a> from the Swiss National Science Foundation.
+I am currently a tenured faculty (ISFP - Inria Starting Faculty Position) at the <a href="https://www.inria.fr/en">INRIA</a> in Strasbourg (FR), working on closed-loop non-invasive neurostimulation and Brain-Computer Interfaces (BCIs).
 
-In 2025, I will start a tenured faculty position (ISFP) at the <a href="https://www.inria.fr/en">INRIA</a> in Strasbourg (FR), working on closed-loop non-invasive neurostimulation.
+Between 2023 and 2025, I was a Postdoctoral Associate at the University of Pittsburgh (US), working on human BCIs at the <a href="https://www.rnel.pitt.edu/">RNEL</a>, on a <a href="https://www.snf.ch/en/XIZpfY3iVS5KRRoD/funding/careers/postdoc-mobility">Postdoc.Mobility grant</a> from the Swiss National Science Foundation.
 
 I obtained my PhD in the <a href="https://physiologie.unibe.ch/~pfister/group/">Theoretical Neuroscience Lab</a> of the University of Bern (CH): my main research topic was the development of statistical inference and Bayesian Active Learning methods, and their application to synaptic recordings.
 
@@ -20,12 +20,11 @@ My most up-to-date CV, code, and list of publications are available via the widg
 
 ## Research Interests
 
-I would define myself as a theoretical neuroscientist, with a keen interest for developing quantative solutions to biological problems. My main research interest is optimal closed-loop control, and its application to neuroscience:
+I would define myself as a theoretical neuroscientist, with a keen interest for developing quantative solutions to biological problems. My main research interest is optimal closed-loop control, and its application to neuroscience and BCIs:
 - I developed an efficient algorithm for closed-loop Bayesian Active Learning and applied it to synaptic inference during my PhD project (<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011342">PLoS CB paper</a>);
-- My current postdoc project is about the detection and correction on-the-fly of errors during motor control tasks with BCIs (<a href="https://github.com/camillegontier/camillegontier.github.io/blob/main/assets/files/poster.pdf">COSYNE 2024 Poster</a>);
-- Our INRIA team will work on efficient closed-loop neurostimulation and its application to cognitive disorders (<a href="https://mlms.icube.unistra.fr/index.php?title=Presentation
-">INRIA team description</a>).
+- My postdoc project was about the detection and correction on-the-fly of errors during motor control tasks with BCIs (<a href="https://www.biorxiv.org/content/10.64898/2026.02.25.707999v1">bioRxiv preprint</a>);
+- Our INRIA team will work on efficient closed-loop neurostimulation and its application to cognitive disorders (<a href="https://www.inria.fr/en/nectarine">INRIA team description</a>).
 
-On my free time, I also enjoy studying space sciences, and help with the organization of microgravity experiments (<a href="https://link.springer.com/article/10.1007/s12217-020-09836-6">MGST paper on parabolic flights with gliders</a>).
+On my free time, I also enjoy studying space sciences, and help with the organization of microgravity experiments (<a href="https://link.springer.com/article/10.1007/s12217-020-09836-6">MGST paper on parabolic flights with gliders</a>, <a href="https://www.biorxiv.org/content/10.1101/2024.07.30.605832v2.abstract">npj Microgravity paper on models of neurons in microgravity</a>).
 
 {% include_relative _includes/teaching.md %}
