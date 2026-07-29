@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a tenured faculty (ISFP - Inria Starting Faculty Position) at the <a href="https://www.inria.fr/en">INRIA</a> in Strasbourg (FR), working on closed-loop non-invasive neurostimulation and Brain-Computer Interfaces (BCIs).
+I am currently a tenured faculty (ISFP - Inria Starting Faculty Position) at <a href="https://www.inria.fr/en">INRIA</a> in Strasbourg (FR), working on closed-loop non-invasive neurostimulation and Brain-Computer Interfaces (BCIs).
 
 Between 2023 and 2025, I was a Postdoctoral Associate at the University of Pittsburgh (US), working on human BCIs at the <a href="https://www.rnel.pitt.edu/">RNEL</a>, on a <a href="https://www.snf.ch/en/XIZpfY3iVS5KRRoD/funding/careers/postdoc-mobility">Postdoc.Mobility grant</a> from the Swiss National Science Foundation.
 
