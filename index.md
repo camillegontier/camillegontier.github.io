@@ -25,6 +25,6 @@ I would define myself as a theoretical neuroscientist, with a keen interest for 
 - My postdoc project was about the detection and correction on-the-fly of errors during motor control tasks with BCIs (<a href="https://www.biorxiv.org/content/10.64898/2026.02.25.707999v1">bioRxiv preprint</a>);
 - Our INRIA team will work on efficient closed-loop neurostimulation and its application to cognitive disorders (<a href="https://www.inria.fr/en/nectarine">INRIA team description</a>).
 
-On my free time, I also enjoy studying space sciences, and help with the organization of microgravity experiments (<a href="https://link.springer.com/article/10.1007/s12217-020-09836-6">MGST paper on parabolic flights with gliders</a>, <a href="https://www.biorxiv.org/content/10.1101/2024.07.30.605832v2.abstract">npj Microgravity paper on models of neurons in microgravity</a>).
+On my free time, I also enjoy studying space sciences, and help with the organization of microgravity experiments (<a href="https://link.springer.com/article/10.1007/s12217-020-09836-6">MGST paper on parabolic flights with gliders</a>, <a href="https://www.biorxiv.org/content/10.1101/2024.07.30.605832v2.abstract">npj Microgravity paper on models of neurons in altered gravity</a>).
 
 {% include_relative _includes/teaching.md %}
